@@ -33,7 +33,7 @@ You can open the jupyter notebook via mybinder.org Refer below link on how to go
 <br>
 <br>
 <b>Note:</b><br>
-- You can only make local changes to the Jupyter Notebook when using with mybinder.org You will have to download the updated Notebook locally and commit to github seperately
+- You can only make local changes to the Jupyter Notebook when using with mybinder.org You will have to download the updated Notebook locally and commit to github seperately<br>
 - DO NOT UPLOAD THE FILE FROM YOUR ORGANIZATON MACHINE TO GITHIB. YOU WILL SEE A WARNING POP-UP FROM YOUR ORGANIZATION
 <br>
 <br>
