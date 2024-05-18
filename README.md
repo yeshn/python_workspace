@@ -43,7 +43,7 @@ Markdown examples **https://www.datacamp.com/tutorial/markdown-in-jupyter-notebo
 Other ways to run your Jupyter Notebook in the cloud **https://www.dataschool.io/cloud-services-for-jupyter-notebook/**
 <br>
 <br>
-You can create multiple sub-folders in <b>yeshn.github.io/<repo_name>/content</b> to effectively organise your code.
+You can create multiple sub-folders in <b>yeshn.github.io/\<repo_name\>/content</b> to effectively organise your code.
 Similar to the <b>crypto</b> folder I have  created
 
 <br>
